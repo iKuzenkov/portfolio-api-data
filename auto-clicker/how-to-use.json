@@ -1,0 +1,29 @@
+{
+  "title": "How to Use",
+  "info": [
+    {
+      "id": 1,
+      "text": "Click the extension icon and enable the auto clicker panel."
+    },
+    {
+      "id": 2,
+      "text": "Click 🎯 Select Target and then click any element on the page."
+    },
+    {
+      "id": 3,
+      "text": "Enter a timer that is convenient for you."
+    },
+    {
+      "id": 4,
+      "text": "Click ▶️ Start to begin auto-clicking. To stop, click ⏹️ Stop."
+    },
+    {
+      "id": 5,
+      "text": "You can drag the panel, hide it, or reset all data anytime."
+    },
+    {
+      "id": 6,
+      "text": "Your settings are saved automatically between sessions."
+    }
+  ]
+}
