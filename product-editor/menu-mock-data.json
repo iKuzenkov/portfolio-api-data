@@ -1,0 +1,64 @@
+{
+  "salads": {
+    "name": "Salads",
+    "description": "All salads are fresh.",
+    "products": {
+      "taco": {
+        "name": "Taco Salad",
+        "description": "Made fresh daily with romaine lettuce, shredded cheddar cheese, diced tomatoes, fire roasted corn, chile lime taco strips, our famous, hearty chili and creamy salsa dressing. A fresh take on tacos perfect for Tuesdays, Wednesdays, or any other days for that matter.",
+        "price": "10",
+        "image": "https://i.postimg.cc/P5yt1vDm/parmesan-salad.jpg"
+      },
+      "caesar": {
+        "name": "Parmesan Caesar Salad",
+        "description": "Made fresh daily with romaine lettuce, shredded cheddar cheese, diced tomatoes, fire roasted corn, chile lime taco strips, our famous, hearty chili and creamy salsa dressing. A fresh take on tacos perfect for Tuesdays, Wednesdays, or any other days for that matter.",
+        "price": "7",
+        "image": "https://i.postimg.cc/bvSBpKq0/cobb-salad.jpg"
+      },
+      "cobb": {
+        "name": "Cobb Salad",
+        "description": "Made fresh daily with Wendy’s signature lettuce blend, grilled chicken, diced tomatoes, shredded cheddar cheese, chopped eggs, applewood smoked bacon, crispy fried onions, and ranch dressing. A hearty salad you can hardly wait for.",
+        "price": "8",
+        "image": "https://i.postimg.cc/d0RG2BB6/taco-salad.jpg"
+      }
+    }
+  },
+
+  "sides": {
+    "name": "Sides",
+    "description": "No salt.",
+    "products": {
+      "fries": {
+        "name": "French Fries",
+        "description": "Natural-cut, skin-on, sea-salted fries served hot and crispy. The world loves them for a reason.",
+        "price": "5",
+        "image": "https://i.postimg.cc/sDBS6ymD/french-fries.jpg"
+      },
+      "baconator": {
+        "name": "Baconator Fries",
+        "description": "Our natural-cut, skin-on, sea-salted fries topped with warm, creamy cheese sauce, shredded cheddar, and crispy Applewood smoked bacon.",
+        "price": "8",
+        "image": "https://i.postimg.cc/W3bqMPtw/baconator.jpg"
+      }
+    }
+  },
+
+  "coffee": {
+    "name": "Coffee and Drink",
+    "description": "Cold.",
+    "products": {
+      "vanilla": {
+        "name": "Vanilla Cold Brew with Cream",
+        "description": "Our smooth, rich cold brew, cream, and a silky vanilla syrup. Proof that vanilla doesn’t have to mean boring.",
+        "price": "15",
+        "image": "https://i.postimg.cc/Vk8qdp99/citrus.jpg"
+      },
+      "pineapple": {
+        "name": "Pineapple Citrus Sparkling Energy",
+        "description": "A sparkling pineapple citrus blend with a couple shots of caffeine over ice. You know how before you go on vacation you’re so excited you can’t sleep? That feeling tastes just like this drink.",
+        "price": "25",
+        "image": "https://i.postimg.cc/Xq55vkp2/colddrink.jpg"
+      }
+    }
+  }
+}
